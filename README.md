@@ -10,6 +10,7 @@ Each component contributes to creating a survival system to manage camps, surviv
 How to Run the Code
 
 When you run the provided C++ code, you will be interacting with a Zombie Apocalypse Survival System program. It consists of three main components: Camp Management, Survivor Skills, and Leaderboard Management. Here's a breakdown of what you can expect:
+
 ---
 1. Main Menu
 When the program starts, you will see the following main menu:
