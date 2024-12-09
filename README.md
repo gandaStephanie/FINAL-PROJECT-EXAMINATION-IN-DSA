@@ -1,3 +1,9 @@
+Stephanie B. Morin
+
+Faith Marie Antonia Q. Quinto
+
+Christine N. Samar
+
 Project Overview
 
 This project is a Zombie Apocalypse Survival System, which combines three functionalities:
